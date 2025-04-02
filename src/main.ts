@@ -71,25 +71,25 @@ floorDisplacementTexture.wrapT = T.RepeatWrapping;
 
 // wall
 const wallColorTexture = textureLoader.load(
-    '/textures/wall/castle_brick_broken_06_1k/castle_brick_broken_06_diff_1k.jpg'
+    '/textures/wall/castle_brick_broken_06_1k/castle_brick_broken_06_diff_1k.webp'
 );
 const wallARMTexture = textureLoader.load(
-    '/textures/wall/castle_brick_broken_06_1k/castle_brick_broken_06_arm_1k.jpg'
+    '/textures/wall/castle_brick_broken_06_1k/castle_brick_broken_06_arm_1k.webp'
 );
 const wallNormalTexture = textureLoader.load(
-    '/textures/wall/castle_brick_broken_06_1k/castle_brick_broken_06_nor_gl_1k.jpg'
+    '/textures/wall/castle_brick_broken_06_1k/castle_brick_broken_06_nor_gl_1k.webp'
 );
 wallColorTexture.colorSpace = T.SRGBColorSpace;
 
 // Roof
 const roofColorTexture = textureLoader.load(
-    '/textures/roof/roof_slates_02_1k/roof_slates_02_diff_1k.jpg'
+    '/textures/roof/roof_slates_02_1k/roof_slates_02_diff_1k.webp'
 );
 const roofARMTexture = textureLoader.load(
-    '/textures/roof/roof_slates_02_1k/roof_slates_02_arm_1k.jpg'
+    '/textures/roof/roof_slates_02_1k/roof_slates_02_arm_1k.webp'
 );
 const roofNormalTexture = textureLoader.load(
-    '/textures/roof/roof_slates_02_1k/roof_slates_02_nor_gl_1k.jpg'
+    '/textures/roof/roof_slates_02_1k/roof_slates_02_nor_gl_1k.webp'
 );
 roofColorTexture.colorSpace = T.SRGBColorSpace;
 
@@ -103,26 +103,26 @@ roofNormalTexture.wrapS = T.RepeatWrapping;
 
 // Bush
 const bushColorTexture = textureLoader.load(
-    '/textures/bush/leaves_forest_ground_1k/leaves_forest_ground_diff_1k.jpg'
+    '/textures/bush/leaves_forest_ground_1k/leaves_forest_ground_diff_1k.webp'
 );
 const bushARMTexture = textureLoader.load(
-    '/textures/bush/leaves_forest_ground_1k/leaves_forest_ground_arm_1k.jpg'
+    '/textures/bush/leaves_forest_ground_1k/leaves_forest_ground_arm_1k.webp'
 );
 const bushNormalTexture = textureLoader.load(
-    '/textures/bush/leaves_forest_ground_1k/leaves_forest_ground_nor_gl_1k.jpg'
+    '/textures/bush/leaves_forest_ground_1k/leaves_forest_ground_nor_gl_1k.webp'
 );
 
 bushColorTexture.colorSpace = T.SRGBColorSpace;
 
 // Grave
 const graveColorTexture = textureLoader.load(
-    '/textures/grave/plastered_stone_wall_1k/plastered_stone_wall_diff_1k.jpg'
+    '/textures/grave/plastered_stone_wall_1k/plastered_stone_wall_diff_1k.webp'
 );
 const graveARMTexture = textureLoader.load(
-    '/textures/grave/plastered_stone_wall_1k/plastered_stone_wall_arm_1k.jpg'
+    '/textures/grave/plastered_stone_wall_1k/plastered_stone_wall_arm_1k.webp'
 );
 const graveNormalTexture = textureLoader.load(
-    '/textures/grave/plastered_stone_wall_1k/plastered_stone_wall_nor_gl_1k.jpg'
+    '/textures/grave/plastered_stone_wall_1k/plastered_stone_wall_nor_gl_1k.webp'
 );
 
 graveColorTexture.colorSpace = T.SRGBColorSpace;
